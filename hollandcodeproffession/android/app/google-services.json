@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1068422586363",
+    "project_id": "hollandcodeproffession",
+    "storage_bucket": "hollandcodeproffession.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068422586363:android:af342578fa22372111b55e",
+        "android_client_info": {
+          "package_name": "com.hollandcode.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5KrOJKJRUg9VjdrupJfcERUKYtUW_2hA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
